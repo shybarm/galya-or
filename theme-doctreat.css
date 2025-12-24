@@ -41,7 +41,7 @@
   --shadow-md: 0 18px 44px rgba(0,0,0,.10);
 
   --container: 1320px;
-  --hero-photo: url("assets/doctor-anna.png");
+  --hero-photo: url("assets/doctor-galya.jpg");
 }
 
 html,body{
@@ -224,7 +224,7 @@ button.btn-secondary{
   width: 260px;
   height: 260px;
   border-radius: 999px;
-  background: #fff url("assets/doctor-anna.png") center/cover no-repeat;
+  background: #fff url("assets/doctor-galya.jpg") center/cover no-repeat;
   box-shadow: 0 24px 64px rgba(0,0,0,.14);
   border: 12px solid rgba(255,255,255,.92);
 }

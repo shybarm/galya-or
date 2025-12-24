@@ -888,3 +888,8 @@ section {
         flex-direction: column;
     }
 }
+
+
+/* Added: doctor portrait asset */
+.hero-photo{display:flex;justify-content:center;align-items:center;margin:16px 0 8px;}
+.hero-photo img{width:220px;height:220px;border-radius:999px;object-fit:cover;border:10px solid rgba(255,255,255,.75);box-shadow:0 18px 50px rgba(0,0,0,.14);}
